@@ -40,10 +40,10 @@ Para este teste, foram assumidas algumas premissas de forma a simplificar o proc
 5. Os dados retornados pelo GET da API foram os que julguei necessários para definir a localização atual do veículo.
 6. Os testes cobrem as funções do tradutor. A API e a persistência não foram incluídos por dificuldades com a implementação.
 7. NodeJS e MongoDB são tecnologias que eu não tenho contato constante e nem experiência profissional. Portanto, os conhecimentos necessários foram adiquiridos ao longo do desenvolvimento. Alguns exemplos:
- 7.1. Instalar e utilizar o MongoDB.
- 7.2. Instalar e utilizar o pacote Express.
- 7.3. Instalar e utilizar o pacote Mocha.
- 7.4. Desenvolver testers unitários em JS (testar comportamentos síncronos e assíncronos)
+   * Instalar e utilizar o MongoDB.
+   * Instalar e utilizar o pacote Express.
+   * Instalar e utilizar o pacote Mocha.
+   * Desenvolver testers unitários em JS (testar comportamentos síncronos e assíncronos)
 
 ### Porque NodeJS e MongoDB?
 
